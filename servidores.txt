@@ -1,0 +1,7 @@
+http://45.225.68.1:8532/
+http://181.209.112.98:40000/
+http://186.0.248.89:20202/
+http://186.0.248.92:20202/
+http://186.0.248.91:20202/
+https://raw.githubusercontent.com/Duartegame/listas/refs/heads/main/colombia.m3u
+https://raw.githubusercontent.com/Duartegame/listas/refs/heads/main/listas2345.m3u
