@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>StreamTP Premium | Cartelera</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+:root{
+  --bg:#0b0f1a;
+  --card:#12182b;
+  --accent:#ffd54a;
+  --text:#eaeaf0;
+  --muted:#9aa0b5;
+  --live:#e53935;
+}
+*{box-sizing:border-box;font-family:Segoe UI,Roboto,Arial,sans-serif}
+body{margin:0;background:linear-gradient(180deg,#0b0f1a,#050711);color:var(--text); min-height: 100vh;}
+
+header{
+  display:flex;
+  align-items:center;
+  gap:14px;
+  padding:14px 16px;
+  background:#0e1430;
+  border-bottom:1px solid #1f2750
+}
+.logo{
+  width:42px;height:42px;border-radius:12px;
+  background:linear-gradient(135deg,#ffd54a,#ff9f1c);
+  display:flex;align-items:center;justify-content:center;
+  color:#000;font-weight:800;font-size:16px
+}
+.title h1{margin:0;font-size:18px}
+.title span{font-size:12px;color:var(--muted)}
+
+.container{padding:14px}
+
+.search input{
+  width:100%;
+  padding:12px 14px;
+  border-radius:12px;
+  border:none;
+  background:#0f1535;
+  color:var(--text);
+  font-size:14px;
+  margin-bottom:14px
+}
+
+.table-wrap{
+  background:var(--card);
+  border-radius:16px;
+  overflow:hidden;
+  box-shadow:0 10px 30px rgba(0,0,0,.4)
+}
+table{width:100%;border-collapse:collapse}
+thead{background:#0f1535}
+th,td{padding:14px 12px;text-align:left}
+th{font-size:13px;color:var(--muted)}
+tr{border-bottom:1px solid #1e2550}
+tr.event{cursor:pointer;transition:.2s}
+tr.event:hover{background:#182061}
+
+.time{font-weight:800; color:var(--accent); font-size: 13px;}
+.badge{padding:6px 12px; border-radius:999px; font-size:11px; font-weight:700; background:#1e2550; color:#cfd3ff; white-space: nowrap;}
+
+#end-day-notice {
+  display: none;
+  text-align: center;
+  padding: 60px 20px;
+  background: var(--card);
+  border-radius: 20px;
+  margin-top: 20px;
+  border: 1px solid #1f2750;
+}
+.btn-live {
+  display: inline-block;
+  margin-top: 25px;
+  padding: 14px 35px;
+  background: linear-gradient(135deg, #ffd54a, #f39c12);
+  color: #000;
+  text-decoration: none;
+  font-weight: 800;
+  border-radius: 12px;
+  text-transform: uppercase;
+}
+
+@media (max-width:768px){
+  table, thead, tbody, tr, td {display:block}
+  thead{display:none}
+  .table-wrap{background:none;box-shadow:none}
+  tr.event{ background:var(--card); margin-bottom:12px; border-radius:14px; padding:14px; position:relative }
+  td{padding:0}
+  td.time{margin-bottom:6px}
+  td:nth-child(2){font-size:14px; margin-bottom:8px; width: 75%;}
+  td:nth-child(3){position:absolute; top:14px; right:14px}
+}
+
+footer{text-align:center; padding:20px; font-size:12px; color:var(--muted)}
+</style>
+</head>
+
+<body>
+
+<header>
+  <div class="logo">TP</div>
+  <div class="title">
+    <h1>StreamTP Premium</h1>
+    <span>Miércoles 11 de Febrero | Eventos de Hoy</span>
+  </div>
+</header>
+
+<div class="container" id="main-content">
+  <div class="search">
+    <input type="text" id="search" placeholder="Buscar partido, liga o equipo...">
+  </div>
+
+  <div class="table-wrap">
+    <table id="eventsTable">
+      <thead>
+        <tr>
+          <th>Horario</th>
+          <th>Evento</th>
+          <th>Estado</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="event" data-url="https://la14hd.com/vivo/canales.php?stream=espn4" data-time="11:45"><td><span class="time"></span></td><td>UWCL: OH Leuven vs Arsenal (ESPN 4)</td><td><span class="badge"></span></td></tr>
+        <tr class="event" data-url="https://la14hd.com/vivo/canales.php?stream=disney2" data-time="11:45"><td><span class="time"></span></td><td>UWCL: OH Leuven vs Arsenal (Disney+)</td><td><span class="badge"></span></td></tr>
+        <tr class="event" data-url="https://la14hd.com/vivo/canales.php?stream=espndeportes" data-time="11:45"><td><span class="time"></span></td><td>UWCL: OH Leuven vs Arsenal (ESPN Dep)</td><td><span class="badge"></span></td></tr>
+        
+        <tr class="event" data-url="https://la14hd.com/vivo/canales.php?stream=disney5" data-time="13:30"><td><span class="time"></span></td><td>Premier League: Aston Villa vs Brighton (Disney+)</td><td><span class="badge"></span></td></tr>
+        <tr class="event" data-url="https://la14hd.com/vivo/canales.php?stream=disney6" data-time="13:30"><td><span class="time"></span></td><td>Premier League: Man. City vs Fulham (Disney+)</td><td><span class="badge"></span></td></tr>
+        <tr class="event" data-url="https://la14hd.com/vivo/canales.php?stream=espn3" data-time="13:30"><td><span class="time"></span></td><td>Premier League: Forest vs Wolves (ESPN 3)</td><td><span class="badge"></span></td></tr>
+        <tr class="event" data-url="https://la14hd.com/vivo/canales.php?stream=disney3" data-time="13:30"><td><span class="time"></span></td><td>Premier League: Forest vs Wolves (Disney+)</td><td><span class="badge"></span></td></tr>
+
+        <tr class="event" data-url="https://la14hd.com/vivo/canales.php?stream=disney4" data-time="13:45"><td><span class="time"></span></td><td>Premier League: Crystal Palace vs Burnley (Disney+)</td><td><span class="badge"></span></td></tr>
+        <tr class="event" data-url="https://la14hd.com/vivo/canales.php?stream=espn" data-time="13:45"><td><span class="time"></span></td><td>DFB Pokal: Bayern vs RB Leipzig (ESPN)</td><td><span class="badge"></span></td></tr>
+        <tr class="event" data-url="https://la14hd.com/vivo/canales.php?stream=disney7" data-time="13:45"><td><span class="time"></span></td><td>DFB Pokal: Bayern vs RB Leipzig (Disney+)</td><td><span class="badge"></span></td></tr>
+        <tr class="event" data-url="https://la14hd.com/vivo/canales.php?stream=espn2mx" data-time="13:45"><td><span class="time"></span></td><td>DFB Pokal: Bayern vs RB Leipzig (ESPN 2 MX)</td><td><span class="badge"></span></td></tr>
+
+        <tr class="event" data-url="https://la14hd.com/vivo/canales.php?stream=dsports" data-time="14:00"><td><span class="time"></span></td><td>Copa Italia: Bologna vs Lazio (DSports)</td><td><span class="badge"></span></td></tr>
+        <tr class="event" data-url="https://la14hd.com/vivo/canales.php?stream=movistar" data-time="14:00"><td><span class="time"></span></td><td>Copa del Rey: Athletic vs Real Sociedad (M+)</td><td><span class="badge"></span></td></tr>
+        <tr class="event" data-url="https://la14hd.com/vivo/canales.php?stream=americatv" data-time="14:00"><td><span class="time"></span></td><td>Copa del Rey: Athletic vs Real Sociedad (América TV)</td><td><span class="badge"></span></td></tr>
+        <tr class="event" data-url="https://la14hd.com/vivo/canales.php?stream=espn4" data-time="14:00"><td><span class="time"></span></td><td>UWCL: Paris FC vs Real Madrid (ESPN 4)</td><td><span class="badge"></span></td></tr>
+        <tr class="event" data-url="https://la14hd.com/vivo/canales.php?stream=disney8" data-time="14:00"><td><span class="time"></span></td><td>UWCL: Paris FC vs Real Madrid (Disney+)</td><td><span class="badge"></span></td></tr>
+        <tr class="event" data-url="https://la14hd.com/vivo/canales.php?stream=espndeportes" data-time="14:00"><td><span class="time"></span></td><td>UWCL: Paris FC vs Real Madrid (ESPN Dep)</td><td><span class="badge"></span></td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div id="end-day-notice" class="container">
+  <div style="font-size: 50px; margin-bottom: 10px;">📅</div>
+  <h2>JORNADA FINALIZADA</h2>
+  <p style="color:var(--muted); font-size: 14px;">Los eventos de hoy han terminado.</p>
+  <a href="#" class="btn-live">MAÑANA MÁS</a>
+</div>
+
+<footer>© 2026 StreamTP Premium</footer>
+
+<script>
+function updateCounters() {
+  const now = new Date();
+  const currentMinutes = now.getHours() * 60 + now.getMinutes();
+  
+  // Lógica de fecha 11 Feb 2026
+  const isAfterDay = now.getFullYear() > 2026 || (now.getMonth() > 1) || (now.getMonth() === 1 && now.getDate() > 11);
+
+  if (isAfterDay) {
+    showEndNotice();
+    return;
+  }
+
+  let totalVisible = 0;
+
+  document.querySelectorAll('.event').forEach(tr => {
+    const timeDisplay = tr.querySelector('.time');
+    const badge = tr.querySelector('.badge');
+    const [h, m] = tr.dataset.time.split(':').map(Number);
+    
+    const eventMinutes = (h * 60 + m); 
+    const diff = eventMinutes - currentMinutes;
+
+    if (diff > 0) {
+      // PRONTO
+      badge.textContent = 'PRONTO';
+      badge.style.background = '#1e2550';
+      timeDisplay.textContent = diff >= 60 ? `En ${Math.floor(diff/60)}h ${diff%60}m` : `En ${diff} min`;
+      tr.style.display = ''; 
+      totalVisible++;
+    } else if (diff <= 0 && diff > -135) { 
+      // EN VIVO (Se oculta después de 2h 15min)
+      badge.textContent = 'EN VIVO';
+      badge.style.background = 'var(--live)';
+      timeDisplay.textContent = '¡En curso!';
+      tr.style.display = '';
+      totalVisible++;
+    } else {
+      // FINALIZADO - OCULTAR FILA
+      tr.style.display = 'none';
+    }
+  });
+
+  // Si no hay más eventos que mostrar hoy
+  if (totalVisible === 0) {
+    showEndNotice();
+  }
+}
+
+function showEndNotice() {
+  document.getElementById('main-content').style.display = 'none';
+  document.getElementById('end-day-notice').style.display = 'block';
+}
+
+document.getElementById('search').addEventListener('keyup', (e) => {
+  const q = e.target.value.toLowerCase();
+  document.querySelectorAll('#eventsTable tbody tr').forEach(tr => {
+    // Solo busca en los que no están finalizados
+    const [h, m] = tr.dataset.time.split(':').map(Number);
+    const now = new Date();
+    const currentM = now.getHours() * 60 + now.getMinutes();
+    if ((h * 60 + m) - currentM > -135) {
+      tr.style.display = tr.innerText.toLowerCase().includes(q) ? '' : 'none';
+    }
+  });
+});
+
+document.querySelectorAll('tr.event').forEach(row => {
+  row.addEventListener('click', () => { window.open(row.dataset.url, '_blank'); });
+});
+
+setInterval(updateCounters, 30000);
+updateCounters();
+</script>
+</body>
+</html>
