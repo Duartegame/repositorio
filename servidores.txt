@@ -2,17 +2,13 @@ peliculas S1
 https://i.postimg.cc/KzY7P5Zp/2667486_ico.png
 video
 http://45.225.68.1:8532/
-
 peliculas S2
 https://i.postimg.cc/KzY7P5Zp/2667486_ico.png
 video
 http://181.209.112.98:40000/
-
 peliculas S3
 https://i.postimg.cc/KzY7P5Zp/2667486_ico.png
 http://186.0.248.89:20202/
-
-
 peliculas S4
 https://i.postimg.cc/KzY7P5Zp/2667486_ico.png
 http://186.0.248.92:20202/
