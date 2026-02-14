@@ -20,6 +20,5 @@ https://raw.githubusercontent.com/Duartegame/listas/refs/heads/main/colombia.m3u
 PREMIUM
 https://raw.githubusercontent.com/Duartegame/listas/refs/heads/main/listas2345.m3u
 EVENTOS
-https://i.postimg.cc/90c9xJGD/InShot_20250616_204742879.jpg
-video
+https://i.postimg.cc/5N08b83h/gifplus.gif
 https://la14hd.com//eventos/
