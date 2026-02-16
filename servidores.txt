@@ -1,10 +1,8 @@
 peliculas S1
 https://i.postimg.cc/KzY7P5Zp/2667486_ico.png
-video
 http://45.225.68.1:8532/
 peliculas S2
 https://i.postimg.cc/KzY7P5Zp/2667486_ico.png
-video
 http://181.209.112.98:40000/
 peliculas S3
 https://i.postimg.cc/KzY7P5Zp/2667486_ico.png
@@ -19,6 +17,12 @@ COLOMBIA
 https://raw.githubusercontent.com/Duartegame/listas/refs/heads/main/colombia.m3u
 PREMIUM
 https://raw.githubusercontent.com/Duartegame/listas/refs/heads/main/listas2345.m3u
-EVENTOS
+EVENTOS1
 https://i.postimg.cc/90c9xJGD/InShot_20250616_204742879.jpg
-https://la14hd.com//eventos/
+https://la14hd.com/
+EVENTOS2
+https://i.postimg.cc/90c9xJGD/InShot_20250616_204742879.jpg
+https://www.tvporinternet2.com/
+EVENTOS3
+https://i.postimg.cc/90c9xJGD/InShot_20250616_204742879.jpg
+https://streamtp10.com/
