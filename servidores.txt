@@ -6,15 +6,6 @@ https://i.postimg.cc/ZRD0QRTj/futbol.jpg
 http://181.209.112.98:40000/
 servidor 3
 https://i.postimg.cc/ZRD0QRTj/futbol.jpg
-http://186.0.248.89:20202/
-servidor 4
-https://i.postimg.cc/ZRD0QRTj/futbol.jpg
-http://186.0.248.92:20202/
-servidor 5
-https://i.postimg.cc/ZRD0QRTj/futbol.jpg
-http://186.0.248.91:20202/
-servidor 6
-https://i.postimg.cc/ZRD0QRTj/futbol.jpg
 http://170.246.176.223:12300/
 COLOMBIA
 https://i.postimg.cc/k5RWpCtT/Golde.png
