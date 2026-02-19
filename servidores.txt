@@ -1,17 +1,20 @@
-películas +1
-https://i.postimg.cc/BQqDVChS/Black_and_Green_Simple_Business_Youtube_Thumbnail.png
+Servidor 1
+https://i.postimg.cc/ZRD0QRTj/futbol.jpg
 http://45.225.68.1:8532/
-peliculas +2
-https://i.postimg.cc/BQqDVChS/Black_and_Green_Simple_Business_Youtube_Thumbnail.png
+servidor 2
+https://i.postimg.cc/ZRD0QRTj/futbol.jpg
 http://181.209.112.98:40000/
-peliculas +3
-https://i.postimg.cc/BQqDVChS/Black_and_Green_Simple_Business_Youtube_Thumbnail.png
+servidor 3
+https://i.postimg.cc/ZRD0QRTj/futbol.jpg
 http://186.0.248.89:20202/
-peliculas +4
-https://i.postimg.cc/BQqDVChS/Black_and_Green_Simple_Business_Youtube_Thumbnail.png
+servidor 4
+https://i.postimg.cc/ZRD0QRTj/futbol.jpg
 http://186.0.248.92:20202/
-peliculas +5
-https://i.postimg.cc/BQqDVChS/Black_and_Green_Simple_Business_Youtube_Thumbnail.png
+servidor 5
+https://i.postimg.cc/ZRD0QRTj/futbol.jpg
+http://186.0.248.91:20202/
+servidor 6
+https://i.postimg.cc/ZRD0QRTj/futbol.jpg
 http://186.0.248.91:20202/
 COLOMBIA
 https://i.postimg.cc/k5RWpCtT/Golde.png
@@ -25,9 +28,6 @@ https://la14hd.com/
 FUTBOL
 https://i.postimg.cc/tRWnzL9H/In-Shot-20260216-101343942.jpg
 https://www.tvporinternet2.com/
-FUTBOL
-https://i.postimg.cc/tRWnzL9H/In-Shot-20260216-101343942.jpg
-https://streamtp10.com/
 FUTBOL
 https://i.postimg.cc/tRWnzL9H/In-Shot-20260216-101343942.jpg
 https://tvtvhd.com/
