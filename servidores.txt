@@ -15,7 +15,7 @@ https://i.postimg.cc/ZRD0QRTj/futbol.jpg
 http://186.0.248.91:20202/
 servidor 6
 https://i.postimg.cc/ZRD0QRTj/futbol.jpg
-http://186.0.248.91:20202/
+http://170.246.176.223:12300/
 COLOMBIA
 https://i.postimg.cc/k5RWpCtT/Golde.png
 https://raw.githubusercontent.com/Duartegame/listas/refs/heads/main/colombia.m3u
