@@ -1,0 +1,82 @@
+FOTO PERFIL
+https://i.postimg.cc/k5RWpCtT/Golde.png
+
+MENU LATERAL
+Politica de Privacidad
+https://www.telelatino.com.es/
+Contacto
+https://t.me/telelatino20
+Compartir App
+*Te comparto esta app que te puede interesar https://www.telelatino.com.es/
+
+SERVIDORES
+Servidor 1
+https://i.postimg.cc/ZRD0QRTj/futbol.jpg
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
+http://45.225.68.1:8532/
+servidor 2
+https://i.postimg.cc/ZRD0QRTj/futbol.jpg
+http://181.209.112.98:40000/?movies
+servidor 3
+https://i.postimg.cc/ZRD0QRTj/futbol.jpg
+http://186.0.248.91:20202/?movies
+colombia
+https://i.postimg.cc/k5RWpCtT/Golde.png
+https://raw.githubusercontent.com/Duartegame/listas/refs/heads/main/colombia.m3u
+premium
+https://i.postimg.cc/k5RWpCtT/Golde.png
+https://raw.githubusercontent.com/Duartegame/listas/refs/heads/main/listas2345.m3u
+futbol
+https://i.postimg.cc/5yTQdj7t/football-logos-2023-design-template-ba96ccb6c8645a69c9eef50607d84d34-screen.jpg
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
+https://la14hd.com/
+futbol
+https://i.postimg.cc/5yTQdj7t/football-logos-2023-design-template-ba96ccb6c8645a69c9eef50607d84d34-screen.jpg
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
+https://www.tvporinternet2.com/
+futbol
+https://i.postimg.cc/5yTQdj7t/football-logos-2023-design-template-ba96ccb6c8645a69c9eef50607d84d34-screen.jpg
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
+https://tvtvhd.com/
+futbol
+https://i.postimg.cc/5yTQdj7t/football-logos-2023-design-template-ba96ccb6c8645a69c9eef50607d84d34-screen.jpg
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://www.telegratishd.com/
+
+RECOMENDACIONES
+En vivo
+https://i.postimg.cc/SRDnjRp0/In-Shot-20251018-095209924.jpg
+http://170.246.176.223:12300/Live/ce4f9057196d9a934a172c8a206a893a/local-espnpremlat.playlist.m3u8
+En vivo
+https://i.postimg.cc/xTYp20B9/In-Shot-20251010-211018612.jpg
+http://170.246.176.223:12300/Live/ce4f9057196d9a934a172c8a206a893a/local-espn7lt.playlist.m3u8
+En vivo
+https://i.postimg.cc/Zq40P6Kv/In-Shot-20251018-100115631.jpg
+http://45.225.68.1:8532/cloud_2/Zero.2024.720.lat.mp4
+en vivo
+https://i.postimg.cc/Y9JQf9yg/cl-az-corazon-m.png
+https://stream.ads.ottera.tv/playlist.m3u8
+en vivo
+https://i.postimg.cc/J4nB4W3b/photo.jpg
+http://45.226.28.9:8085/Live/7e60b3df9ca34b9d3fe8625f71015ade/local-106.playlist.m3u8
+en vivo
+https://i.postimg.cc/bJrmWdy0/In-Shot-20250707-101631684.jpg
+http://45.226.28.9:8085/Live/5272bc1a3b7dfb97cea54dff4e23ed58/CNNesp.playlist.m3u8
+en vivo Corazón
+https://i.postimg.cc/fk4yvZj3/In-Shot-20250913-214628710.jpg
+https://stream.ads.ottera.tv/playlist.m3u8
+en vivo
+https://i.postimg.cc/wMwnhNWD/In-Shot-20250507-224052523.jpg
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+en vivo
+https://i.postimg.cc/4xcNWVch/In-Shot-20251108-162855642.jpg
+http://170.246.176.223:12300/Live/ce4f9057196d9a934a172c8a206a893a/local-fox1ar_1080.m3u8
+en vivo
+https://i.postimg.cc/rpzdchmw/In-Shot-20250913-215802937.jpg
+http://45.225.68.1:8532/Live/ec715e50e8f26e5f21516989d23f1da9/local-ch29_720.m3u8
+en vivo
+https://i.postimg.cc/HWbrp8pX/In-Shot-20250913-220144176.jpg
+http://45.225.68.1:8532/Live/ec715e50e8f26e5f21516989d23f1da9/local-ch9_720.m3u8
+en vivo
+https://i.postimg.cc/gkDrh9L0/In-Shot-20250913-220254431.jpg
+http://45.226.28.9:8085/Live/1d7c4cff535c14cdcd09a5999afb4669/local-96.playlist.m3u8
