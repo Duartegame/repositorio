@@ -10,6 +10,9 @@ Compartir App
 *Te comparto esta app que te puede interesar https://www.telelatino.com.es/
 
 SERVIDORES
+en vivo
+https://i.postimg.cc/GhZdD74T/M3U_(2).png
+https://raw.githubusercontent.com/Duartegame/repositorio/refs/heads/main/canales
 Servidor 1
 https://i.postimg.cc/ZRD0QRTj/futbol.jpg
 Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
