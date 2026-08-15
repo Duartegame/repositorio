@@ -1,7 +1,3 @@
-Entendido. Solo las imágenes con nombres alfanuméricos (que terminan en número y `b`) las convierto a `w200` y cambio la `b` por `i`. Las que tienen nombres con letras mayúsculas/minúsculas (hash) las dejo en `original` sin modificar el nombre.
-
-Aquí tienes todas las URLs extraídas y formateadas según esa regla:
-
 http://201.217.246.101:9009/poster/w200/9804311785560662i.jpg
 http://201.217.246.101:9009/?watch=980431&movie#3
 http://201.217.246.101:9009/poster/w200/12020331783124230i.jpg
