@@ -1,22 +1,3 @@
-¡Entendido perfecto! Te voy a dar el bloque completo con **todas las imágenes alfanuméricas movidas a `original/`** y, además, **las voy a agrupar al final** para que sea más fácil.
-
----
-
-## 🔥 REGLAS APLICADAS:
-
-1. **Imágenes numéricas** (ej: `9498381784960903i.jpg`) → se quedan en `w200/`
-2. **Imágenes alfanuméricas** (ej: `rbONN3UloJa4syJn6pHlDqZsQqx.jpg`) → 
-   - Cambian de `w200/` a `original/`
-   - Se mueven **TODAS al final del archivo** (agrupadas)
-3. **Las líneas con `?watch=`** no se tocan
-
----
-
-## 📄 BLOQUE COMPLETO MODIFICADO:
-
-*(Primero van todas las numéricas en orden, y al final todas las alfanuméricas agrupadas)*
-
-```
 http://186.1.215.11/poster/w200/9498381784960903i.jpg
 http://186.1.215.11/?watch=949838&movie#3
 http://186.1.215.11/poster/w200/6149451782005114i.jpg
@@ -772,7 +753,8 @@ http://186.1.215.11/?watch=830784&movie#3
 http://186.1.215.11/poster/w200/8044131663996587i.jpg
 http://186.1.215.11/?watch=804413&movie#3
 http://186.1.215.11/poster/w200/10291191664320653i.jpg
-http://186.1.215.11/?watch=1029119&movie#3http://186.1.215.11/poster/w200/6428851664675542i.jpg
+http://186.1.215.11/?watch=1029119&movie#3
+http://186.1.215.11/poster/w200/6428851664675542i.jpg
 http://186.1.215.11/?watch=642885&movie#3
 http://186.1.215.11/poster/w200/8314101665105315i.jpg
 http://186.1.215.11/?watch=831410&movie#3
@@ -1264,12 +1246,6 @@ http://186.1.215.11/poster/w200/131871766684366i.jpg
 http://186.1.215.11/?watch=13187&movie#3
 http://186.1.215.11/poster/w200/610801766684120i.jpg
 http://186.1.215.11/?watch=61080&movie#3
-
----
-
-## 🔥 IMÁGENES ALFANUMÉRICAS (agrupadas al final):
-
-```
 http://186.1.215.11/poster/original/rbONN3UloJa4syJn6pHlDqZsQqx.jpg
 http://186.1.215.11/?watch=668742&movie#3
 http://186.1.215.11/poster/original/1ILgy7Qw3aDDIIU1u3bauMimhSS.jpg
