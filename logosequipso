@@ -1,6 +1,3 @@
-Tienes toda la razón. Aquí tienes la lista **sin duplicados**, manteniendo **solo una entrada por equipo** (la primera vez que aparece). He eliminado todas las repeticiones exactas de nombre+URL.
-
-```
 Marathón https://verfutbol.es/img_equipos/8107-lld1q.png
 Alianza https://verfutbol.es/img_equipos/2556-WmolT.png
 Deportivo Mixco https://verfutbol.es/img_equipos/9410-4wSQv.png
@@ -559,4 +556,3 @@ Granada https://verfutbol.es/img_equipos/12-ySGQr.png
 Mallorca https://verfutbol.es/img_equipos/187-Ddx76.png
 Ferro Carril Oeste https://verfutbol.es/img_equipos/3427-Vxlla.png
 All Boys https://verfutbol.es/img_equipos/6194-S56Ep.png
-```
